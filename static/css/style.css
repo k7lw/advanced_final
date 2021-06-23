@@ -14,3 +14,23 @@ h2{
 #about_h{
     font-size:55px; 
 }
+#Home{
+    padding:5em;
+}
+#border_backdrop{
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 3px;
+    align-content: center;
+    padding: 1em;
+}
+#about_content{
+    width:85vw;
+    height:85vh; 
+    background-image: url("/images/Chalkboard.png");
+    background-size: 85vw 85vh;
+    padding:5em;
+}
+#about_images{
+    align-content: center;
+    padding: auto;
+}
